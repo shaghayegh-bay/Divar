@@ -1,0 +1,2 @@
+rootProject.name='Get Data Using Retrofit'
+include ':app'
